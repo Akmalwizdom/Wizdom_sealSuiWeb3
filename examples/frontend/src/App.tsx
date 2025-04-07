@@ -77,7 +77,7 @@ function App() {
   
   return (
     <Theme appearance="light" accentColor="blue" grayColor="gray" radius="medium">
-      <Container size="3" style={{ padding: '2rem', paddingBottom: '1rem' }}>
+      <Container size="3" style={{ padding: '6rem' }}>
         <Flex position="sticky" px="4" py="3" justify="between" align="center" style={{ 
           backgroundColor: 'var(--color-background)', 
           borderBottom: '1px solid var(--gray-5)',
